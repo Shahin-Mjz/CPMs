@@ -1,2 +1,2 @@
 # CPMs
-$\color{white}{\bf{\text{Implementation of the Continuous-Phase Modulations (CPMs)}}}$
+$\color{white}{\bf{\text{An Implementation for Continuous-Phase Modulations (CPMs) in a Simple Manner.}}}$
